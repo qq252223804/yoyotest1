@@ -1,0 +1,10 @@
+置顶随笔[置顶]《python3自动化接口+selenium》10月07号开学!（2个月2000,包教会）
+https://www.cnblogs.com/yoyoketang/p/9600751.html
+2018年10月10日pytest文档26-运行上次失败用例(--lf 和 --ff）
+https://www.cnblogs.com/yoyoketang/p/9769559.html
+2018年10月9日pytest文档25-conftest.py作用范围
+https://www.cnblogs.com/yoyoketang/p/9769242.html
+2018年9月28日pytest文档21-pytest-html报告优化（nodeid中文显示[\u6350\u52a9\u6211\u4eec]问题解决）
+https://www.cnblogs.com/yoyoketang/p/9749050.html
+2018年9月20日python文档24-fixture的作用范围(scope)
+https://www.cnblogs.com/yoyoketang/p/9762197.html

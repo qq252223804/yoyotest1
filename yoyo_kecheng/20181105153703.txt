@@ -1,0 +1,16 @@
+置顶随笔[置顶]11月10号开学!《python3自动化selenium+接口》2个月2000,包教会）
+https://www.cnblogs.com/yoyoketang/p/9600751.html
+2018年11月1日python测试开发django-4.获取url参数和name的作用
+https://www.cnblogs.com/yoyoketang/p/9893130.html
+2018年10月30日python测试开发django-3.url配置
+https://www.cnblogs.com/yoyoketang/p/9880181.html
+2018年10月25日python接口自动化27-urlencode编码%E6%82%A0%E6%82%A0与解码
+https://www.cnblogs.com/yoyoketang/p/9878511.html
+2018年10月23日python测试开发django-2.templates模板与html页
+https://www.cnblogs.com/yoyoketang/p/9851913.html
+2018年10月16日python测试开发django-1.开始hello world!
+https://www.cnblogs.com/yoyoketang/p/9839698.html
+2018年10月10日pytest文档28-重复执行用例（pytest-repeat）
+https://www.cnblogs.com/yoyoketang/p/9800961.html
+2018年10月9日pytest文档27-pytest分布式执行（pytest-xdist）
+https://www.cnblogs.com/yoyoketang/p/9775646.html

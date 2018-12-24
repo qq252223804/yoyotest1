@@ -1,0 +1,14 @@
+置顶随笔[置顶]《python3自动化接口+selenium》10月07号开学!（2个月2000,包教会）
+https://www.cnblogs.com/yoyoketang/p/9600751.html
+2018年9月18日locust性能测试4-参数关联
+https://www.cnblogs.com/yoyoketang/p/9672096.html
+2018年9月17日python接口自动化26-参数关联和JSESSIONID(上个接口返回数据作为下个接口请求参数)
+https://www.cnblogs.com/yoyoketang/p/9671952.html
+2018年9月14日python笔记28-lxml.etree爬取html内容
+https://www.cnblogs.com/yoyoketang/p/9662830.html
+2018年9月12日python笔记27-lxml.etree解析html
+https://www.cnblogs.com/yoyoketang/p/9661273.html
+2018年9月6日Locust性能测试3-no-web模式和csv报告保存
+https://www.cnblogs.com/yoyoketang/p/9648100.html
+2018年8月30日Locust性能测试2-先登录场景案例
+https://www.cnblogs.com/yoyoketang/p/9642242.html

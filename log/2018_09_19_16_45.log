@@ -1,0 +1,5 @@
+[2018-09-19 16:45:16,032]- logger.py]- INFO: 一个info信息
+[2018-09-19 16:45:16,033]- logger.py]- DEBUG: 一个debug信息
+[2018-09-19 16:45:16,033]- logger.py]- WARNING: 一个waring信息
+[2018-09-19 16:45:16,033]- logger.py]- ERROR: 一个error信息
+[2018-09-19 16:45:16,033]- logger.py]- CRITICAL: 一个致命critical信息

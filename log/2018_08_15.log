@@ -1,0 +1,36 @@
+[2018-08-15 10:37:49,475]- logger.py]- WARNING: 邮件发送失败:(535, b'Error: \xc7\xeb\xca\xb9\xd3\xc3\xca\xda\xc8\xa8\xc2\xeb\xb5\xc7\xc2\xbc\xa1\xa3\xcf\xea\xc7\xe9\xc7\xeb\xbf\xb4: http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=1001256')
+[2018-08-15 10:39:29,460]- logger.py]- WARNING: 邮件发送失败:(535, b'Error: \xc7\xeb\xca\xb9\xd3\xc3\xca\xda\xc8\xa8\xc2\xeb\xb5\xc7\xc2\xbc\xa1\xa3\xcf\xea\xc7\xe9\xc7\xeb\xbf\xb4: http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=1001256')
+[2018-08-15 10:41:34,815]- logger.py]- WARNING: 邮件发送失败:(535, b'Error: \xc7\xeb\xca\xb9\xd3\xc3\xca\xda\xc8\xa8\xc2\xeb\xb5\xc7\xc2\xbc\xa1\xa3\xcf\xea\xc7\xe9\xc7\xeb\xbf\xb4: http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=1001256')
+[2018-08-15 10:43:24,599]- logger.py]- WARNING: 邮件发送失败:(535, b'Error: \xc7\xeb\xca\xb9\xd3\xc3\xca\xda\xc8\xa8\xc2\xeb\xb5\xc7\xc2\xbc\xa1\xa3\xcf\xea\xc7\xe9\xc7\xeb\xbf\xb4: http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=1001256')
+[2018-08-15 10:58:42,207]- logger.py]- WARNING: 邮件发送失败:(535, b'Error: \xc7\xeb\xca\xb9\xd3\xc3\xca\xda\xc8\xa8\xc2\xeb\xb5\xc7\xc2\xbc\xa1\xa3\xcf\xea\xc7\xe9\xc7\xeb\xbf\xb4: http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=1001256')
+[2018-08-15 10:59:52,716]- logger.py]- WARNING: 邮件发送失败:(535, b'Error: \xc7\xeb\xca\xb9\xd3\xc3\xca\xda\xc8\xa8\xc2\xeb\xb5\xc7\xc2\xbc\xa1\xa3\xcf\xea\xc7\xe9\xc7\xeb\xbf\xb4: http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=1001256')
+[2018-08-15 11:00:22,871]- logger.py]- WARNING: 邮件发送失败:Connection unexpectedly closed
+[2018-08-15 11:02:52,553]- logger.py]- WARNING: 邮件发送失败:Connection unexpectedly closed
+[2018-08-15 11:03:14,363]- logger.py]- WARNING: 邮件发送失败:Connection unexpectedly closed
+[2018-08-15 11:05:05,224]- logger.py]- WARNING: 邮件发送失败:Connection unexpectedly closed
+[2018-08-15 11:05:20,263]- logger.py]- WARNING: 邮件发送失败:Connection unexpectedly closed
+[2018-08-15 11:07:43,888]- logger.py]- WARNING: 邮件发送失败:Connection unexpectedly closed
+[2018-08-15 11:07:57,078]- logger.py]- WARNING: 邮件发送失败:Connection unexpectedly closed
+[2018-08-15 11:08:36,446]- logger.py]- WARNING: 邮件发送失败:STARTTLS extension not supported by server.
+[2018-08-15 11:12:19,232]- logger.py]- WARNING: 邮件发送失败:(535, b'Error: \xc7\xeb\xca\xb9\xd3\xc3\xca\xda\xc8\xa8\xc2\xeb\xb5\xc7\xc2\xbc\xa1\xa3\xcf\xea\xc7\xe9\xc7\xeb\xbf\xb4: http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=1001256')
+[2018-08-15 11:12:42,141]- logger.py]- WARNING: 邮件发送失败:STARTTLS extension not supported by server.
+[2018-08-15 11:16:24,798]- logger.py]- WARNING: 邮件发送失败:STARTTLS extension not supported by server.
+[2018-08-15 11:17:58,312]- logger.py]- WARNING: 邮件发送失败:STARTTLS extension not supported by server.
+[2018-08-15 11:18:12,582]- logger.py]- WARNING: 邮件发送失败:STARTTLS extension not supported by server.
+[2018-08-15 11:19:57,560]- logger.py]- WARNING: 邮件发送失败:STARTTLS extension not supported by server.
+[2018-08-15 11:20:11,671]- logger.py]- WARNING: 邮件发送失败:STARTTLS extension not supported by server.
+[2018-08-15 11:26:48,382]- logger.py]- WARNING: 邮件发送失败:STARTTLS extension not supported by server.
+[2018-08-15 11:26:59,139]- logger.py]- WARNING: 邮件发送失败:(535, b'Error: \xc7\xeb\xca\xb9\xd3\xc3\xca\xda\xc8\xa8\xc2\xeb\xb5\xc7\xc2\xbc\xa1\xa3\xcf\xea\xc7\xe9\xc7\xeb\xbf\xb4: http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=1001256')
+[2018-08-15 11:27:20,550]- logger.py]- WARNING: 邮件发送失败:Connection unexpectedly closed
+[2018-08-15 11:27:28,297]- logger.py]- WARNING: 邮件发送失败:Connection unexpectedly closed
+[2018-08-15 11:27:39,036]- logger.py]- WARNING: 邮件发送失败:STARTTLS extension not supported by server.
+[2018-08-15 11:27:52,179]- logger.py]- WARNING: 邮件发送失败:Connection unexpectedly closed
+[2018-08-15 11:34:25,651]- logger.py]- WARNING: 邮件发送失败:Connection unexpectedly closed
+[2018-08-15 11:35:08,279]- logger.py]- WARNING: 邮件发送失败:STARTTLS extension not supported by server.
+[2018-08-15 11:39:22,246]- logger.py]- WARNING: 邮件发送失败:STARTTLS extension not supported by server.
+[2018-08-15 11:39:29,342]- logger.py]- WARNING: 邮件发送失败:(535, b'Error: \xc7\xeb\xca\xb9\xd3\xc3\xca\xda\xc8\xa8\xc2\xeb\xb5\xc7\xc2\xbc\xa1\xa3\xcf\xea\xc7\xe9\xc7\xeb\xbf\xb4: http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=1001256')
+[2018-08-15 11:40:25,644]- logger.py]- WARNING: 邮件发送失败:Connection unexpectedly closed
+[2018-08-15 11:40:47,792]- logger.py]- WARNING: 邮件发送失败:Connection unexpectedly closed
+[2018-08-15 11:42:18,569]- logger.py]- WARNING: 邮件发送失败:Connection unexpectedly closed
+[2018-08-15 11:42:23,630]- logger.py]- WARNING: 邮件发送失败:Connection unexpectedly closed
+[2018-08-15 11:43:02,551]- logger.py]- WARNING: 邮件发送失败:Connection unexpectedly closed

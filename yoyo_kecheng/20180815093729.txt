@@ -1,0 +1,16 @@
+置顶随笔[置顶]《python自动化selenium+appium》8月11号开学!（2个月2000,包教会）
+https://www.cnblogs.com/yoyoketang/p/9416331.html
+2018年8月14日pytest文档12-skip跳过用例
+https://www.cnblogs.com/yoyoketang/p/9475183.html
+2018年8月13日pytest文档11-assert断言
+https://www.cnblogs.com/yoyoketang/p/9469996.html
+2018年8月10日pytest文档10-命令行传参
+https://www.cnblogs.com/yoyoketang/p/9457473.html
+2018年8月8日pytest文档9-参数化parametrize
+https://www.cnblogs.com/yoyoketang/p/9455276.html
+2018年8月7日pytest文档8-html报告报错截图+失败重跑
+https://www.cnblogs.com/yoyoketang/p/9450309.html
+2018年8月6日pytest文档7-pytest-html生成html报告
+https://www.cnblogs.com/yoyoketang/p/9444463.html
+2018年8月3日pytest文档6-fixture之yield实现teardown
+https://www.cnblogs.com/yoyoketang/p/9401554.html

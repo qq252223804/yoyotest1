@@ -1,0 +1,40 @@
+[2018-08-14 10:23:31,419]- logger.py]- WARNING: 一个waring信息
+[2018-08-14 10:23:31,420]- logger.py]- ERROR: 一个error信息
+[2018-08-14 10:23:31,420]- logger.py]- CRITICAL: 一个致命critical信息
+[2018-08-14 10:25:32,309]- logger.py]- WARNING: 一个waring信息
+[2018-08-14 10:25:32,309]- logger.py]- ERROR: 一个error信息
+[2018-08-14 10:25:32,310]- logger.py]- CRITICAL: 一个致命critical信息
+[2018-08-14 10:43:50,740]- logger.py]- WARNING: this is an exception message
+[2018-08-14 10:43:50,740]- logger.py]- WARNING: this is an exception message
+[2018-08-14 10:44:20,916]- logger.py]- WARNING: this is an exception message
+[2018-08-14 10:44:25,001]- logger.py]- WARNING: this is an exception message
+[2018-08-14 10:44:36,289]- logger.py]- ERROR: this is an exception message
+[2018-08-14 11:29:16,484]- logger.py]- ERROR: this is an exception message
+[2018-08-14 11:32:20,595]- logger.py]- ERROR: this is an exception message
+[2018-08-14 12:30:56,433]- logger.py]- ERROR: this is an exception message
+[2018-08-14 12:37:59,331]- logger.py]- WARNING: 邮件发送失败
+[2018-08-14 12:38:27,208]- logger.py]- WARNING: 邮件发送失败
+[2018-08-14 12:45:34,536]- logger.py]- INFO: 一个info信息
+[2018-08-14 12:45:34,536]- logger.py]- DEBUG: 一个debug信息
+[2018-08-14 12:45:34,536]- logger.py]- WARNING: 一个waring信息
+[2018-08-14 12:45:34,536]- logger.py]- ERROR: 一个error信息
+[2018-08-14 12:45:34,536]- logger.py]- CRITICAL: 一个致命critical信息
+[2018-08-14 12:45:38,612]- logger.py]- ERROR: this is an exception message
+[2018-08-14 12:45:49,203]- logger.py]- DEBUG: this is an exception message
+[2018-08-14 12:47:45,328]- logger.py]- WARNING: 邮件发送失败
+[2018-08-14 12:48:11,457]- logger.py]- WARNING: 邮件发送失败
+[2018-08-14 12:48:34,793]- logger.py]- WARNING: 邮件发送失败:(535, b'Error: \xc7\xeb\xca\xb9\xd3\xc3\xca\xda\xc8\xa8\xc2\xeb\xb5\xc7\xc2\xbc\xa1\xa3\xcf\xea\xc7\xe9\xc7\xeb\xbf\xb4: http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=1001256')
+[2018-08-14 12:51:56,733]- logger.py]- DEBUG: 执行 SQL 语句出现异常：(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'selects * from student where sno='105'' at line 1")
+[2018-08-14 12:51:56,764]- logger.py]- DEBUG: 查询结果错误：(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'selects * from student where sno='105'' at line 1")
+[2018-08-14 12:51:56,764]- logger.py]- DEBUG: 查询结果错误：(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'selects * from student where sno='105'' at line 1")
+[2018-08-14 12:51:56,795]- logger.py]- DEBUG: 查询结果错误：(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'selects * from student where sno='105'' at line 1")
+[2018-08-14 12:51:56,795]- logger.py]- DEBUG: 查询结果错误：(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'selects * from student where sno='105'' at line 1")
+[2018-08-14 12:51:56,795]- logger.py]- DEBUG: 查询结果错误：(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'selects * from student where sno='105'' at line 1")
+[2018-08-14 12:52:28,303]- logger.py]- DEBUG: 执行 SQL 语句出现异常：(1146, "Table 'test.students' doesn't exist")
+[2018-08-14 12:52:28,335]- logger.py]- DEBUG: 查询结果错误：(1146, "Table 'test.students' doesn't exist")
+[2018-08-14 12:52:28,335]- logger.py]- DEBUG: 查询结果错误：(1146, "Table 'test.students' doesn't exist")
+[2018-08-14 12:52:28,367]- logger.py]- DEBUG: 查询结果错误：(1146, "Table 'test.students' doesn't exist")
+[2018-08-14 12:52:28,367]- logger.py]- DEBUG: 查询结果错误：(1146, "Table 'test.students' doesn't exist")
+[2018-08-14 12:52:28,367]- logger.py]- DEBUG: 查询结果错误：(1146, "Table 'test.students' doesn't exist")
+[2018-08-14 12:53:03,750]- logger.py]- DEBUG: 数据库连接异常：(1045, "Access denied for user 'root'@'115.238.49.50' (using password: YES)")
+[2018-08-14 12:53:36,654]- logger.py]- DEBUG: 数据库连接异常：(1045, "Access denied for user 'root1'@'115.238.49.50' (using password: YES)")

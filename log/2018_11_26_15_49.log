@@ -1,0 +1,15 @@
+[2018-11-26 15:49:54,549]- logger.py]- WARNING: 邮件发送失败:(535, b'Error: \xca\xda\xc8\xa8\xc2\xeb\xb4\xed\xce\xf3\xa3\xac\xc7\xeb\xca\xe4\xc8\xeb\xd5\xfd\xc8\xb7\xb5\xc4\xca\xda\xc8\xa8\xc2\xeb\xa1\xa3\xcf\xea\xc7\xe9\xc7\xeb\xbf\xb4: http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=1001256')
+[2018-11-26 15:49:55,176]- logger.py]- WARNING: 邮件发送失败:(535, b'Error: \xca\xda\xc8\xa8\xc2\xeb\xb4\xed\xce\xf3\xa3\xac\xc7\xeb\xca\xe4\xc8\xeb\xd5\xfd\xc8\xb7\xb5\xc4\xca\xda\xc8\xa8\xc2\xeb\xa1\xa3\xcf\xea\xc7\xe9\xc7\xeb\xbf\xb4: http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=1001256')
+[2018-11-26 15:49:55,176]- logger.py]- WARNING: 邮件发送失败:(535, b'Error: \xca\xda\xc8\xa8\xc2\xeb\xb4\xed\xce\xf3\xa3\xac\xc7\xeb\xca\xe4\xc8\xeb\xd5\xfd\xc8\xb7\xb5\xc4\xca\xda\xc8\xa8\xc2\xeb\xa1\xa3\xcf\xea\xc7\xe9\xc7\xeb\xbf\xb4: http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=1001256')
+[2018-11-26 15:49:55,255]- connectionpool.py]- INFO: Starting new HTTP connection (1): www.kuaidi100.com
+[2018-11-26 15:49:55,255]- connectionpool.py]- INFO: Starting new HTTP connection (1): www.kuaidi100.com
+[2018-11-26 15:49:55,302]- connectionpool.py]- DEBUG: "GET /query?type=yunda&postid=1202247993797&id=1&valicode=&temp=0.6220324459573068l HTTP/1.1" 200 None
+[2018-11-26 15:49:55,302]- connectionpool.py]- DEBUG: "GET /query?type=yunda&postid=1202247993797&id=1&valicode=&temp=0.6220324459573068l HTTP/1.1" 200 None
+[2018-11-26 15:49:55,304]- connectionpool.py]- INFO: Starting new HTTP connection (1): www.kuaidi100.com
+[2018-11-26 15:49:55,304]- connectionpool.py]- INFO: Starting new HTTP connection (1): www.kuaidi100.com
+[2018-11-26 15:49:55,338]- connectionpool.py]- DEBUG: "GET /query?type=yunda&postid=1202247993797&id=1&valicode=&temp=0.6220324459573068l HTTP/1.1" 200 None
+[2018-11-26 15:49:55,338]- connectionpool.py]- DEBUG: "GET /query?type=yunda&postid=1202247993797&id=1&valicode=&temp=0.6220324459573068l HTTP/1.1" 200 None
+[2018-11-26 15:49:55,344]- connectionpool.py]- INFO: Starting new HTTP connection (1): www.kuaidi100.com
+[2018-11-26 15:49:55,344]- connectionpool.py]- INFO: Starting new HTTP connection (1): www.kuaidi100.com
+[2018-11-26 15:49:55,383]- connectionpool.py]- DEBUG: "GET /query?type=yunda&postid=1202247993797&id=1&valicode=&temp=0.6220324459573068l HTTP/1.1" 200 None
+[2018-11-26 15:49:55,383]- connectionpool.py]- DEBUG: "GET /query?type=yunda&postid=1202247993797&id=1&valicode=&temp=0.6220324459573068l HTTP/1.1" 200 None
